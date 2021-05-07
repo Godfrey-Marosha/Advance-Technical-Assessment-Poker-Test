@@ -3,11 +3,11 @@ Created using Apache Netbeans & Eclipse IDE for Java Developers
 
 Firstly, make sure you run the system on UTF-8 to display card suits.
 
-/*
+
   * When VM Options is set to J-DFile.encoding=utf-8
   * UTF-8 PrintStream: 
     Your hand:  3♣ 7♦ 7♥ 7♠ K♥
-*/
+
 
 Go to: Poker-advance-tech.
 PokerTest.java, which is the Main class.
