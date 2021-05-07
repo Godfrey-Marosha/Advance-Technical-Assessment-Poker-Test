@@ -1,7 +1,8 @@
 # Advance-Technical-Assessment-Poker-Test
-Created using Apache Netbeans
+Created using Apache Netbeans & Eclipse IDE for Java Developers
 
 Firstly, make sure you run the system on UTF-8 to display card suits.
+
 /*
   * When VM Options is set to J-DFile.encoding=utf-8
   * UTF-8 PrintStream: 
