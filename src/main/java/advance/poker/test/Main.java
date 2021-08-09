@@ -1,7 +1,7 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * And open the template in the editor.
  */
 package advance.poker.test;
 
@@ -41,7 +41,7 @@ public class Main {
         System.out.println("Your hand: \n" + hand);
         System.out.println("\n");
 
-        // Evaluate the player’s hand, informing them of the highest ranked poker hand that matches their hand of 5 cards.
+        // Evaluate the playerâ€™s hand, informing them of the highest ranked poker hand that matches their hand of 5 cards.
         Map <Results, Integer> outputResultsCountMap = new HashMap<>();
         for (int i = 0; i < HANDS; i++) {
             deck = new Deck();
