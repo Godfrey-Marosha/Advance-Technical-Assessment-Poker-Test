@@ -26,7 +26,7 @@ public class Main {
             expectedProbabilities.put(Results.ONE_PAIR,     1098240F/numberOfPossibleFiveCardHands);
 	}
 
-    private static final int HANDS = 12; //100000
+    private static final int HANDS = 100; //You can go up to 100000
 
     public static void main(String[] args) {
         Deck deck = new Deck();
